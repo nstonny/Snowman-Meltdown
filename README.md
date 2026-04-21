@@ -17,8 +17,9 @@ Each wrong guess advances the melting ASCII art stage.
 
 ## How to Run
 
+Go to the root folder of the project, then run the following command in your terminal:
+
 ```bash
-cd /Users/nayeema/Masterschool/Term2/Week4/Project/Snowman-Meltdown
 python snowman.py
 ```
 
@@ -38,4 +39,3 @@ python snowman.py
 - Add difficulty levels (easy/medium/hard).
 - Track score across multiple rounds.
 - Save high scores to a file.
-

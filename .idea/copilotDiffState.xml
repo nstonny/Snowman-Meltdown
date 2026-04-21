@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/README.md">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/README.md" />
+              <option name="originalContent" value="# Snowman Meltdown&#10;&#10;A terminal word-guessing game inspired by hangman.&#10;&#10;You guess one letter at a time to reveal the secret word before the snowman fully melts.&#10;Each wrong guess advances the melting ASCII art stage.&#10;&#10;## Project Structure&#10;&#10;- `snowman.py` - Entry point that starts the game.&#10;- `game_logic.py` - Core game flow, input validation, and replay logic.&#10;- `ascii_art.py` - Snowman melt stages used during gameplay.&#10;&#10;## Requirements&#10;&#10;- Python 3.8+ (or newer)&#10;&#10;## How to Run&#10;&#10;```bash&#10;cd /Users/nayeema/Masterschool/Term2/Week4/Project/Snowman-Meltdown&#10;python snowman.py&#10;```&#10;&#10;## How the Game Works&#10;&#10;- A random word is selected from a small built-in word list.&#10;- You can only enter one alphabetical character per guess.&#10;- Repeated guesses are rejected.&#10;- Correct guesses reveal matching letters in the word.&#10;- Incorrect guesses increase the mistake counter and melt the snowman.&#10;- You win by revealing every letter before reaching the final melt stage.&#10;- After each round, you can choose to play again.&#10;&#10;## Future Improvements&#10;&#10;- Add more words and categories.&#10;- Add difficulty levels (easy/medium/hard).&#10;- Track score across multiple rounds.&#10;- Save high scores to a file.&#10;&#10;" />
+              <option name="updatedContent" value="# Snowman Meltdown&#10;&#10;A terminal word-guessing game inspired by hangman.&#10;&#10;You guess one letter at a time to reveal the secret word before the snowman fully melts.&#10;Each wrong guess advances the melting ASCII art stage.&#10;&#10;## Project Structure&#10;&#10;- `snowman.py` - Entry point that starts the game.&#10;- `game_logic.py` - Core game flow, input validation, and replay logic.&#10;- `ascii_art.py` - Snowman melt stages used during gameplay.&#10;&#10;## Requirements&#10;&#10;- Python 3.8+ (or newer)&#10;&#10;## How to Run&#10;&#10;Go to the root folder of the project, then run `snowman.py`.&#10;&#10;```bash&#10;cd /Users/nayeema/Masterschool/Term2/Week4/Project/Snowman-Meltdown&#10;python snowman.py&#10;```&#10;&#10;## How the Game Works&#10;&#10;- A random word is selected from a small built-in word list.&#10;- You can only enter one alphabetical character per guess.&#10;- Repeated guesses are rejected.&#10;- Correct guesses reveal matching letters in the word.&#10;- Incorrect guesses increase the mistake counter and melt the snowman.&#10;- You win by revealing every letter before reaching the final melt stage.&#10;- After each round, you can choose to play again.&#10;&#10;## Future Improvements&#10;&#10;- Add more words and categories.&#10;- Add difficulty levels (easy/medium/hard).&#10;- Track score across multiple rounds.&#10;- Save high scores to a file." />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
